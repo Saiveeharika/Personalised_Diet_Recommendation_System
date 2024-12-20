@@ -1,1 +1,6 @@
 # Personalised_Diet_Recommendation_System
+In today's era of personalized healthcare, the demand for intelligent systems that cater to individual health needs is ever-increasing. This Project proposes a novel approach to a diet recommendation system that integrates Flask backend technology with machine learning algorithms to provide personalized recommendations based on user input regarding symptoms, disease characterization, and health management. 
+The system begins by collecting user input of symptoms through an intuitive web interface built on the Flask backend. Leveraging machine learning algorithm- Support Vector Classifier, the system analyses this input to characterize symptoms, identify potential diseases or nutritional deficiencies, and recommend personalized diet plans, workout routines, precautions, and medication.
+The Flask backend serves as the backbone of the system, handling data processing, model inference, and recommendation generation in a scalable and efficient manner. It ensures seamless communication between the front-end user interface and the machine learning components, providing a smooth user experience.
+The system integrates precautions and proper medication recommendations based on disease characterization, ensuring comprehensive health management. 
+

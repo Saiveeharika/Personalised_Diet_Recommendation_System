@@ -1,5 +1,8 @@
 Personalised_Diet_Recommendation_System
 
+![Interface](https://github.com/user-attachments/assets/1cb5dd63-8c23-4e65-b33d-537301c43e56)
+
+
 In today's era of personalized healthcare, the demand for intelligent systems that cater to individual health needs is ever-increasing. This project presents an innovative approach to a diet recommendation system that integrates Flask backend technology with machine learning algorithms to provide personalized suggestions based on user input regarding symptoms, disease characterization, and overall health management.
 
 Project Overview
